@@ -36,7 +36,8 @@ Original Image:
 ![Brightness Image](jpeg%20photos/brightness_output.JPG)
 
   The image below shows the result of appling the contrast color adjustment operation with the value for α = 1.5.
-  The values of α less than 1 make the image darker, while values of α larger than 1 make the image brighter. As opposed to     the previous operator (brightness alteration), you can notice that the greylevel tones are uniformly scaled.
+  The values of α less than 1 make the image darker, while values of α larger than 1 make the image brighter. As opposed to the previous operation (brightness       
+  alteration), you can notice that the greylevel tones are uniformly scaled.
 
 
 ![Contrast Image](jpeg%20photos/contrast_output.JPG)
@@ -102,10 +103,10 @@ rectangles onto images. This can be useful for annotations, highlighting areas o
 simple graphics.
 
 
-  The image below shows the result of drawing a white line from (456, 235) to (189, 220), a circle of center (271, 119) and     radius 50, and a rectangle which has the top left corner (456, 235) and bottom right corner (615, 343).
+  The image below shows the result of drawing a white line from (456, 235) to (189, 220), a circle of center (271, 119) and radius 50, and a rectangle with top left corner (456, 235), bottom right corner (615, 343).
 
 
-  ![Draw Image](jpeg%20photos/drawing_output.JPG)
+![Draw Image](jpeg%20photos/drawing_output.JPG)
 
 ## Installation
 
