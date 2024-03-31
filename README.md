@@ -93,7 +93,7 @@ from the input image. They involve the usage of a kernel (or filter) that is con
   The image below shows the result of applying the 3x3 Vertical Sobel Convolutional Kernel(+scaling).
 
 
-  ![Horizontal Sobel Image](jpeg%20photos/convolution_verticalSobel.JPG)
+  ![Vertical Sobel Image](jpeg%20photos/convolution_verticalSobel.JPG)
   
 
 - Drawing : The module for drawing shapes over images aims
@@ -105,7 +105,7 @@ simple graphics.
   The image below shows the result of drawing a white line from (456, 235) to (189, 220), a circle of center (271, 119) and     radius 50, and a rectangle which has the top left corner (456, 235) and bottom right corner (615, 343).
 
 
-![Horizontal Sobel Image](jpeg%20photos/drawing_output.JPG)
+  ![Draw Image](jpeg%20photos/drawing_output.JPG)
 
 ## Installation
 
