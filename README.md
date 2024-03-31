@@ -33,13 +33,13 @@ Original Image:
   You can notice that negative β values make the resulting image darker. The lower β is, the darker the image is.
 
 
-  ![Brightness Image](jpeg%20photos/brightness_output.JPG)
+![Brightness Image](jpeg%20photos/brightness_output.JPG)
 
   The image below shows the result of appling the contrast color adjustment operation with the value for α = 1.5.
   The values of α less than 1 make the image darker, while values of α larger than 1 make the image brighter. As opposed to     the previous operator (brightness alteration), you can notice that the greylevel tones are uniformly scaled.
 
 
-  ![Contrast Image](jpeg%20photos/contrast_output.JPG)
+![Contrast Image](jpeg%20photos/contrast_output.JPG)
 
   
 
@@ -58,7 +58,7 @@ transformation function:
   The image below shows the result of appling gamma correction with the value for γ = 1.2. A value of γ less than 1 will        darken the image, while a value larger than 1 will make the image appear brighter.
 
   
-  ![Gamma Image](jpeg%20photos/gamma_correction_output.JPG)  
+![Gamma Image](jpeg%20photos/gamma_correction_output.JPG)  
 
 
 
@@ -76,24 +76,24 @@ from the input image. They involve the usage of a kernel (or filter) that is con
   The image below shows the result of applying the 3x3 Mean Blur Convolutional Kernel(+scaling).
 
 
-  ![MeanBlur Image](jpeg%20photos/convolution_meanBlur.JPG)
+![MeanBlur Image](jpeg%20photos/convolution_meanBlur.JPG)
 
 
   The image below shows the result of applying the 3x3 Gaussian Blur Convolutional Kernel(+scaling).
 
 
-  ![Gaussian Image](jpeg%20photos/convolution_gaussianBlur.JPG)
+![Gaussian Image](jpeg%20photos/convolution_gaussianBlur.JPG)
 
 
   The image below shows the result of applying the 3x3 Horizontal Sobel Convolutional Kernel(+scaling).
 
 
-  ![Horizontal Sobel Image](jpeg%20photos/convolution_horizontalSobel.JPG)
+![Horizontal Sobel Image](jpeg%20photos/convolution_horizontalSobel.JPG)
 
   The image below shows the result of applying the 3x3 Vertical Sobel Convolutional Kernel(+scaling).
 
 
-  ![Vertical Sobel Image](jpeg%20photos/convolution_verticalSobel.JPG)
+![Vertical Sobel Image](jpeg%20photos/convolution_verticalSobel.JPG)
   
 
 - Drawing : The module for drawing shapes over images aims
